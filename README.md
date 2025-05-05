@@ -34,7 +34,6 @@ Proyek ini bertujuan untuk membangun sebuah sistem berbasis Python yang dapat me
 - Klasifikasi Jenis Kelamin
 - Akurasi dan Kinerja
 - Antarmuka sederhana untuk input dan output hasil
-- Menggunakan dataset Roboflow
 
 ## Tools & Teknologi
 - Python
