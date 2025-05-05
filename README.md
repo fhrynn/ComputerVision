@@ -1,7 +1,6 @@
 # Computer Vision
 
 **Nama Projek**: Pendeteksi Wajah untuk Menentukan Umur dan Jenis Kelamin
-**Nama**: Fahryan Ardana
 
 ## Latar Belakang
 Teknologi pengenalan wajah (face recognition) telah mengalami perkembangan pesat dan diterapkan dalam berbagai sektor, seperti keamanan, pemasaran, dan sistem kehadiran. Salah satu kemampuan penting dari teknologi ini adalah kemampuannya untuk mendeteksi atribut demografis, seperti jenis kelamin, dari wajah seseorang. Deteksi jenis kelamin berdasarkan wajah dapat digunakan untuk analisis pelanggan, otomatisasi data, dan pengembangan aplikasi berbasis kecerdasan buatan yang lebih personal.
