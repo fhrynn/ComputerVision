@@ -8,17 +8,6 @@ Teknologi pengenalan wajah (face recognition) telah mengalami perkembangan pesat
 Namun, sebagian besar sistem pengenalan wajah masih bergantung pada input dari kamera secara real-time. Hal ini tidak selalu ideal, terutama ketika pengguna ingin menganalisis gambar yang telah tersimpan sebelumnya. Oleh karena itu, diperlukan sebuah sistem yang dapat melakukan pendeteksian wajah dan klasifikasi jenis kelamin dari gambar statis yang diunggah oleh pengguna.
 Proyek ini bertujuan untuk membangun sebuah sistem berbasis Python yang dapat mendeteksi wajah dan mengklasifikasikan jenis kelamin berdasarkan gambar yang diunggah. Sistem ini akan diintegrasikan ke dalam sebuah website, memungkinkan pengguna untuk mengunggah gambar dan mendapatkan hasil analisis wajah secara langsung melalui platform web.
 
-## Perumusan Masalah
-1) Bagaimana cara mengembangkan sistem deteksi wajah yang dapat mengidentifikasi wajah pada gambar statis yang diunggah oleh pengguna
-2) Bagaimana cara mengimplementasikan algoritma untuk mengklasifikasikan jenis kelamin dari wajah yang terdeteksi dalam gambar statis
-3) Bagaimana memastikan akurasi deteksi wajah dan klasifikasi jenis kelamin pada berbagai kondisi gambar, seperti pencahayaan yang berbeda dan sudut pandang wajah yang beragam
-4) Bagaimana mengintegrasikan sistem deteksi wajah dan klasifikasi jenis kelamin ke dalam platform web agar pengguna dapat mengunggah gambar dan mendapatkan hasil analisis secara real-time
-
-## Batasan Masalah
-1) Hanya Mendeteksi Wajah dalam Gambar Statis
-2) Keterbatasan Akurasi pada Kondisi Tertentu
-3) Integrasi dengan Web
-  
 ## Tujuan
 1) Membangun sistem deteksi wajah yang dapat mendeteksi dan mengenali wajah dalam gambar statis yang diunggah oleh pengguna
 2) Mengembangkan algoritma klasifikasi jenis kelamin berdasarkan wajah yang terdeteksi, sehingga sistem dapat mengidentifikasi jenis kelamin pengguna secara otomatis.
