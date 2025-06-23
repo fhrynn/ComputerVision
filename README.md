@@ -24,7 +24,7 @@ This project aims to build a Python-based system that can detect faces and class
 3) Accuracy and Performance
 4) Simple interface for input and output results
 
-## Tools & Teknologi
+## Tools & Technology
 - Python
 - YoloV8s
 - Dataset: [Roboflow https://universe.roboflow.com/bethaniaworkspace/motorcycledetection-plboa](https://universe.roboflow.com/henk-bert-n4r2o/age-gender-detection-tg8pr/browse)
