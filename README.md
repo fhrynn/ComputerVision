@@ -1,4 +1,4 @@
-# Computer Vision
+![4r 3](https://github.com/user-attachments/assets/d07eafb5-9df5-470e-834b-a1c06327cefd)# Computer Vision
 
 **Project Name**: Pendeteksi Wajah untuk Menentukan Umur dan Jenis Kelamin
 
