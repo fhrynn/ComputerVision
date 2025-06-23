@@ -1,30 +1,35 @@
 # Computer Vision
 
-**Nama Projek**: Pendeteksi Wajah untuk Menentukan Umur dan Jenis Kelamin
+**Project Name**: Pendeteksi Wajah untuk Menentukan Umur dan Jenis Kelamin
 
-## Latar Belakang
-Teknologi pengenalan wajah (face recognition) telah mengalami perkembangan pesat dan diterapkan dalam berbagai sektor, seperti keamanan, pemasaran, dan sistem kehadiran. Salah satu kemampuan penting dari teknologi ini adalah kemampuannya untuk mendeteksi atribut demografis, seperti jenis kelamin, dari wajah seseorang. Deteksi jenis kelamin berdasarkan wajah dapat digunakan untuk analisis pelanggan, otomatisasi data, dan pengembangan aplikasi berbasis kecerdasan buatan yang lebih personal.
+## Background
+Facial recognition technology has advanced rapidly and is now applied across various sectors, such as security, marketing, and attendance systems. One of the key capabilities of this technology is its ability to detect demographic attributes, such as gender, from a person's face. Gender detection based on facial features can be used for customer analysis, data automation, and the development of more personalized AI applications.
 
-Namun, sebagian besar sistem pengenalan wajah masih bergantung pada input dari kamera secara real-time. Hal ini tidak selalu ideal, terutama ketika pengguna ingin menganalisis gambar yang telah tersimpan sebelumnya. Oleh karena itu, diperlukan sebuah sistem yang dapat melakukan pendeteksian wajah dan klasifikasi jenis kelamin dari gambar statis yang diunggah oleh pengguna.
-Proyek ini bertujuan untuk membangun sebuah sistem berbasis Python yang dapat mendeteksi wajah dan mengklasifikasikan jenis kelamin berdasarkan gambar yang diunggah. Sistem ini akan diintegrasikan ke dalam sebuah website, memungkinkan pengguna untuk mengunggah gambar dan mendapatkan hasil analisis wajah secara langsung melalui platform web.
+However, most facial recognition systems still rely on real-time input from cameras. This is not always ideal, especially when users want to analyze previously stored images. Therefore, a system is needed that can detect faces and classify gender from static images uploaded by users.
+This project aims to build a Python-based system that can detect faces and classify gender based on uploaded images. The system will be integrated into a website, allowing users to upload images and receive face analysis results directly through the web platform.
 
-## Tujuan
-1) Membangun sistem deteksi wajah yang dapat mendeteksi dan mengenali wajah dalam gambar statis yang diunggah oleh pengguna
-2) Mengembangkan algoritma klasifikasi jenis kelamin berdasarkan wajah yang terdeteksi, sehingga sistem dapat mengidentifikasi jenis kelamin pengguna secara otomatis.
-3) Meningkatkan akurasi deteksi wajah dan klasifikasi jenis kelamin dengan memperhatikan berbagai faktor seperti pencahayaan, sudut pandang wajah, dan kualitas gambar
-4) Mengintegrasikan sistem deteksi wajah dan klasifikasi jenis kelamin ke dalam sebuah website sehingga pengguna dapat mengunggah gambar secara mudah dan mendapatkan hasil analisis secara langsung
+## Objectives
+1) Develop a facial detection system capable of detecting and recognizing faces in static images uploaded by users.
+2) Develop a gender classification algorithm based on detected faces, enabling the system to automatically identify the gender of users.
+3) Improve the accuracy of face detection and gender classification by addressing factors such as lighting, angle, and image quality.
+4) Integrate the face detection and gender classification system into a website, so users can easily upload images and receive analysis results directly.
 
-## Manfaat
-1) Dengan adanya sistem deteksi wajah dan klasifikasi jenis kelamin pada gambar yang diunggah, pengguna dapat dengan mudah mendapatkan informasi demografis dari gambar tanpa memerlukan kamera real-time
-2) Proyek ini memungkinkan otomatisasi dalam proses analisis wajah dan jenis kelamin, mengurangi waktu dan usaha yang diperlukan untuk melakukan analisis secara manual, yang berguna untuk berbagai aplikasi seperti pemasaran dan analisis data pelanggan
+## Benefits
+1) With a face detection and gender classification system for uploaded images, users can easily obtain demographic information from images without needing real-time camera input.
+2) This project enables the automation of face and gender analysis processes, reducing the time and effort required for manual analysis. This can be useful for applications such as marketing and customer data analysis.
 
-## Target Sistem
-- Deteksi Wajah
-- Klasifikasi Jenis Kelamin
-- Akurasi dan Kinerja
-- Antarmuka sederhana untuk input dan output hasil
+## System Targets
+1) Face Detection
+2) Gender Classification
+3) Accuracy and Performance
+4) Simple interface for input and output results
 
 ## Tools & Teknologi
 - Python
 - YoloV8s
 - Dataset: [Roboflow https://universe.roboflow.com/bethaniaworkspace/motorcycledetection-plboa](https://universe.roboflow.com/henk-bert-n4r2o/age-gender-detection-tg8pr/browse)
+
+## Output
+![hasil_deteksi (2)](https://github.com/user-attachments/assets/b7af642b-5bf6-435e-8324-3f6a6d33e7c0)
+![hasil_deteksi (3)](https://github.com/user-attachments/assets/9cf889ec-c788-4281-98da-f0a5e1bb1981)
+![hasil_deteksi (4)](https://github.com/user-attachments/assets/469123bb-95cb-461e-b9aa-005aa60cdc1a)
